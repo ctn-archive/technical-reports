@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/19758/ctn-archive/technical-reports.svg)](https://zenodo.org/badge/latestdoi/19758/ctn-archive/technical-reports)
+
 technical-reports
 =================
 
